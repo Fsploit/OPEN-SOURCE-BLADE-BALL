@@ -84,6 +84,5 @@ Message:RickRoll()
     end
 end
 
--- funfact yall got trolled. its just a kicj script AHAHAHAGAHAG
 
 runService.Heartbeat:Connect(checkBallsProximity)
